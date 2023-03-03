@@ -1,2 +1,4 @@
 This is a file with common functions
 New support feature
+Support for new feature
+Pretifier
